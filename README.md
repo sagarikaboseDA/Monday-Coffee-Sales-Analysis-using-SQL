@@ -42,6 +42,7 @@ This project aims to analyze the sales data of Monday Coffee, an online coffee r
 **After analyzing the data,** 
 
 **The recommended top three cities for new store openings are:-**
+
 **City 1: Pune**  
 1. Average rent per customer is very low.  
 2. Highest total revenue.  
@@ -57,6 +58,7 @@ This project aims to analyze the sales data of Monday Coffee, an online coffee r
 2. Average rent per customer is very low at 156.  
 3. Average sales per customer is better at 11.6k.
 
+
 **Coffee products to launch for better customer engagement**
 1. Cold Brew Coffee Pack (6 Bottles)
 2. Ground Espresso Coffee (250g)
@@ -65,6 +67,7 @@ This project aims to analyze the sales data of Monday Coffee, an online coffee r
 5. Vanilla Coffee Syrup (250ml)
 6. Cold Brew Concentrate (500ml)
 7. Organic Green Coffee Beans (500g)
+
 
 **Overall Insights**
 1. Late 2023 (Sep–Nov) was a peak growth period across all major cities.
