@@ -39,8 +39,9 @@ This project aims to analyze the sales data of Monday Coffee, an online coffee r
     
 
 ## Recommendations
-After analyzing the data, the recommended top three cities for new store openings are:
+**After analyzing the data,** 
 
+**The recommended top three cities for new store openings are:-**
 **City 1: Pune**  
 1. Average rent per customer is very low.  
 2. Highest total revenue.  
@@ -55,3 +56,20 @@ After analyzing the data, the recommended top three cities for new store opening
 1. Highest number of customers, which is 69.  
 2. Average rent per customer is very low at 156.  
 3. Average sales per customer is better at 11.6k.
+
+**Coffee products to launch for better customer engagement**
+1. Cold Brew Coffee Pack (6 Bottles)
+2. Ground Espresso Coffee (250g)
+3. Instant Coffee Powder (100g)
+4. Coffee Beans (500g)
+5. Vanilla Coffee Syrup (250ml)
+6. Cold Brew Concentrate (500ml)
+7. Organic Green Coffee Beans (500g)
+
+**Overall Insights**
+1. Late 2023 (Sep–Nov) was a peak growth period across all major cities.
+- Likely seasonal demand, promotions, or festival-driven surge.
+2. Dec 2023–Jan 2024: most cities saw steep MoM corrections (–30% to –50%).
+3. 2024 YoY comparison shows drastic decline (>70–95%) in Q3–Q4 2024 vs 2023 peaks.
+4. Pune, Bangalore, Chennai, Delhi, Jaipur are consistently the top contributors, but highly volatile.
+5. Smaller cities (Nagpur, Kanpur, Indore) show sharper % swings, but on a much lower base.
